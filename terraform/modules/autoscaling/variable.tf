@@ -1,5 +1,3 @@
-terraform
-# File: `terraform/modules/autoscaling/variable.tf`
 variable "asg_name" {
   description = "Autoscaling group name"
   type        = string
