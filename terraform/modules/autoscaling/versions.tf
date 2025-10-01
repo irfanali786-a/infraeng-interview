@@ -1,4 +1,3 @@
-# File: `modules/autoscaling/versions.tf`
 terraform {
   required_version = ">= 1.2"
   required_providers {
